@@ -12,8 +12,3 @@ Lägg till en knapp och se till att när man klickar på knappen så visas en r�
 
 ### Input Duplication
 Lägg till ett text-fält och se till att varje gång man skriver i fältet så visas samma innehåll i en annan paragraf.
-
-### Countdown timer
-Skapa en sekundräknare som tickar nedåt tills den nått noll och visar hur många sekunder det är kvar.
-När den har räknat klart, visa ett meddelande.
-
