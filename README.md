@@ -1,4 +1,4 @@
-# 29-nov-js-DOM-events-loopar
+# 29 Nov / JS / DOM, events, loopar
 Idag har vi repeterat DOM + events.
 Vi har även gått igenom loopar.
 
@@ -17,5 +17,3 @@ Lägg till ett text-fält och se till att varje gång man skriver i fältet så 
 Skapa en sekundräknare som tickar nedåt tills den nått noll och visar hur många sekunder det är kvar.
 När den har räknat klart, visa ett meddelande.
 
-
- repetiton. Loopar.
